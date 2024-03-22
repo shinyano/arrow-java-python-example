@@ -3,6 +3,18 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Eclipse IDE files
+**/.classpath
+**/.project
+**/.settings/
+# intellij IDE files
+**/*.iml
+**/.idea/
+**/*.log
+**/*.log.gz
+**/*.ipr
+**/*.iws
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
